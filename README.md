@@ -4,6 +4,14 @@ Esse artigo irá explicar o básico de como você pode
 utilizar o buildroot para construir o seu próprio sistema
 linux de forma fácil.
 
+## créditos especiais:
+
+meus créditos ao canal nir lichtman, que foi por onde eu descobri
+o buildroot e também o que eu usei de base para criar esse artigo.
+
+link do vídeo:
+https://www.youtube.com/watch?v=ey3sKdOmPa8
+
 ## o que é o buildroot
 
 O buildroot é um projeto que visa facilitar a construção
