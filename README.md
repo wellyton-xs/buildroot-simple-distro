@@ -15,7 +15,7 @@ para aprendizado.
 O site do buildroot possui uma ampla e vasta documentação. Se 
 por acaso for do seu interesse, eis aqui o link:
 
-[ https://buildroot.org/ ] (https://buildroot.org/)
+https://buildroot.org/
 
 ## o que é um sistema embarcado
 
@@ -43,7 +43,7 @@ bem divertido!
 
 faça o download do buildroot no site oficial:
 
-[https://buildroot.org/downloads/buildroot-2024.02.1.tar.gz] (https://buildroot.org/downloads/buildroot-2024.02.1.tar.gz)
+https://buildroot.org/downloads/buildroot-2024.02.1.tar.gz
 
 descompacte os arquivos:
 
